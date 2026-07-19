@@ -1,3 +1,5 @@
+# 학습 진행 상황 : https://su-jeon.github.io/start-ai/
+
 # practice
 
 Python 기초를 익히기 위한 연습 저장소입니다.
